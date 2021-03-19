@@ -9,6 +9,6 @@ entries:
     name: mychart
     type: application
     urls:
-    - https://shohagrana64.github.io/helm/mychart-0.1.0.tgz
+    - https://shohagrana64.github.io/helm/mychart/example/mychart-0.1.0.tgz
     version: 0.1.0
 generated: "2021-03-19T12:15:25.148248027+06:00"
